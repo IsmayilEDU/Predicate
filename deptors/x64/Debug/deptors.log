@@ -1,0 +1,3 @@
+﻿  deptors.cpp
+C:\Ismayil\PROJECTS\StepIT\OOP - (C++)\Lesson 25 - Predicate\deptors\deptors.cpp(70,51): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  deptors.vcxproj -> C:\Ismayil\PROJECTS\StepIT\OOP - (C++)\Lesson 25 - Predicate\x64\Debug\deptors.exe
